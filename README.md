@@ -7,7 +7,7 @@ You can install this package via pip, type the following in your command line:
 ```bash
 pip install GetStatAPI
 
-```
+``` 
 
 ## Basic Usage
 
